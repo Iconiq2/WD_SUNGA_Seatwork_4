@@ -1,0 +1,202 @@
+body {
+    font-family: 'Helvetica', sans-serif; /* Font for the body */
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Light background for contrast */
+    color: #333; /* Darker text color for readability */
+}
+
+header {
+    background-image: url('https://wallpaperaccess.com/full/2379010.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #FFFFFF;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    padding: 80px 20px; /* Adjusted padding for better spacing */
+    text-align: center;
+    border-bottom: 5px solid rgba(255, 255, 255, 0.3); /* Subtle border at the bottom */
+}
+
+nav {
+    text-align: center;
+    margin: 20px 0; /* Adjusted margin for better spacing */
+}
+
+.home-button {
+    background-color: #007BFF; /* Button color */
+    color: #FFFFFF;
+    padding: 15px 30px; /* Increased padding for a larger button */
+    text-decoration: none;
+    border-radius: 8px; /* Rounded corners */
+    font-weight: bold;
+    font-size: 1.1em; /* Increased font size for better readability */
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Added transform for hover */
+    box-shadow: 0 4px 8px rgba(0, 123, 255, 0.3); /* Soft shadow for button */
+}
+
+.home-button:hover {
+    background-color: #0056b3; /* Darker on hover */
+    transform: scale(1.05); /* Slightly enlarge on hover */
+}
+
+.shoes-section {
+    padding: 40px; /* Increased padding for the section */
+}
+
+.shoes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.shoe {
+    background: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 12px; /* Rounded corners */
+    overflow: hidden;
+    width: 100%;
+    max-width: 850px; /* Increased max-width */
+    margin: 25px 0; /* Increased margin */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth hover effect */
+}
+
+.shoe:hover {
+    transform: scale(1.02); /* Slightly enlarge on hover */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Enhanced shadow on hover */
+}
+
+.shoe img {
+    width: 220px; /* Image width */
+    height: 220px; /* Image height */
+    object-fit: cover;
+    border-right: 1px solid #cccccc; /* Divider */
+}
+
+.shoe-info {
+    padding: 20px; /* Increased padding */
+    flex: 1;
+}
+
+.shoe-info h2 {
+    color: #ff0000; /* Title color */
+    margin-top: 0;
+    font-size: 1.5em; /* Increased font size */
+}
+
+.feature {
+    margin-bottom: 15px; /* Increased margin */
+}
+
+.feature h3 {
+    color: #444444; /* Feature title color */
+    margin-bottom: 8px; /* Increased margin */
+    font-size: 1.2em; /* Increased font size */
+}
+
+.feature p {
+    color: #777777; /* Feature description color */
+    font-size: 1em; /* Increased font size */
+}
+
+.additional-resources {
+    padding: 30px; /* Increased padding */
+    background-color: #ffffff;
+    border-top: 1px solid #cccccc;
+    text-align: center;
+}
+
+.additional-resources h2 {
+    color: #444444; /* Section title color */
+    font-size: 1.5em; /* Increased font size */
+}
+
+.resources {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.resource {
+    background: #f9f9f9;
+    border: 1px solid #cccccc;
+    border-radius: 12px; /* Rounded corners */
+    padding: 25 px; /* Increased padding */
+    width: 320px; /* Resource card width */
+    margin: 25px; /* Increased margin */
+    text-align: center;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Shadow */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth hover effect */
+}
+
+.resource:hover {
+    transform: translateY(-5px); /* Lift effect on hover */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Enhanced shadow on hover */
+}
+
+.resource h3 {
+    color: #444444; /* Resource title color */
+    font-size: 1.2em; /* Increased font size */
+}
+
+.resource img {
+    width: 100%;
+    height: auto;
+    max-width: 420px; /* Max width */
+    border-radius: 12px; /* Rounded corners */
+    margin-bottom: 15px; /* Increased margin */
+}
+
+.resource a {
+    background-color: #444444; /* Button color */
+    color: #ffffff;
+    padding: 15px 30px; /* Increased padding for a larger button */
+    text-decoration: none;
+    border-radius: 8px; /* Rounded corners */
+    font-size: 1.1em; /* Increased font size for better readability */
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Added transform for hover */
+    box-shadow: 0 4px 8px rgba(68, 68, 68, 0.3); /* Soft shadow for button */
+}
+
+.resource a:hover {
+    background-color: #777777; /* Darker on hover */
+    transform: scale(1.05); /* Slightly enlarge on hover */
+}
+
+footer {
+    background-color: #f0f0f0; /* Footer background color */
+    padding: 25px; /* Increased padding */
+    text-align: center;
+    margin-top: 25px; /* Increased margin */
+    border-top: 1px solid #ccc; /* Border color */
+}
+
+.footer-logo img {
+    margin-bottom: 15px; /* Increased margin */
+    width: 160px; /* Logo width */
+}
+
+.footer-links {
+    margin-bottom: 15px; /* Increased margin */
+}
+
+.footer-links a {
+    margin-right: 20px; /* Increased margin */
+    color: #444; /* Link color */
+    text-decoration: none;
+    font-size: 16px; /* Increased font size */
+    transition: color 0.3s ease; /* Smooth color transition */
+}
+
+.footer-links a:hover {
+    color: #007BFF; /* Change color on hover */
+}
+
+.footer-copy p {
+    margin: 0;
+    color: #777; /* Text color */
+    font-size: 16px; /* Increased font size */
+}

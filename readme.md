@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/Iconiq2">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/KICKS.png" alt="kicks" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">WD_SUNGA_SEATWORK_4</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  A dedicated Features Display section will showcase the key functionalities and unique offerings through visually engaging elements such as interactive icons, sliders, or detailed descriptions. (Optional)
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=Iconiq2/WD-Template-Project)
 
 [![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
 
@@ -59,20 +59,20 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+This project focuses on designing and developing a dynamic multi-page website that combines functionality, aesthetic appeal, and user-friendly navigation. The website will feature multiple interconnected pages, each tailored to present specific content or services.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project - Multiple Page Interface
+- Whats the purpose - To enhance my skills
+- What are key components - Functionalities
+- What technology used and how it is used -  CSS and HTML
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Multiple Page Interface
+- Page Structures
+- Functionality Showcase
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -118,5 +118,5 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+|HTML & CSS Full Course for free|To learn how to use css and html[https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ]
+
