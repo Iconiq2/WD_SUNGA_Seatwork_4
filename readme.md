@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  A dedicated Features Display section will showcase the key functionalities and unique offerings through visually engaging elements such as interactive icons, sliders, or detailed descriptions. (Optional)
+  A dedicated Features Display section will showcase the key functionalities and unique offerings through visually engaging elements such as interactive icons, sliders, or detailed descriptions.
 </div>
 
 <br />
