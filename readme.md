@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=Iconiq2/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=Iconiq2/WD_SUNGA_Seatwork_4-1)
 
 [![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
 
@@ -118,5 +118,5 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
-|HTML & CSS Full Course for free|To learn how to use css and html[https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ]
+|HTML & CSS Full Course for free|To learn how to use css and html|[https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ]|
 
